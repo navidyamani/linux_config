@@ -19,5 +19,5 @@ volumeicon &
 conky &
 guake &
 feh --bg-max --randomize ~/.wallpapers/* &
-compton -cCGb &
+#compton -cCGb &
 xfce4-volumed &
